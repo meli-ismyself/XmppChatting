@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XMPPChatting</string>
+    <string name="label1">Connect to Xmpp</string>
+    <string name="label2">Get Contact</string>
+</resources>
